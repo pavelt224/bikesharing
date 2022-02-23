@@ -12,7 +12,7 @@ For our presentation, we've decided to base our study on data from August 2019. 
 
 # Tableau Public Link
 
-Link to Dashboard https://public.tableau.com/app/profile/pavel.tenenbaum/viz/LinktoDashboard/StoryBikeShareAnalysis-Deliverable3?publish=yes
+[LINK TO DASHBOARD](https://public.tableau.com/app/profile/pavel.tenenbaum/viz/LinktoDashboard/StoryBikeShareAnalysis-Deliverable3?publish=yes)
 
 
 
